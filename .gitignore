@@ -1,0 +1,6 @@
+./db.sqlite3
+*pyc
+api\migrations
+api\__pycache__
+sim800lapi\__pycache__
+db.sqlite3
